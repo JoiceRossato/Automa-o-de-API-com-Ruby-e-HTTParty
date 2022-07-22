@@ -1,0 +1,1 @@
+Iniciando Projeto de Automação de API com HTTParty e Rspec.
